@@ -1,4 +1,4 @@
-const api_key = "8a82e58f3b5c8c9f8b41afcd06d8c376"; 
+const api_key = ""; 
 const ciudades = ["Los Cabos", "Ciudad Obregon", "La paz"];
 const container = document.getElementById("ciudades-container");
 
